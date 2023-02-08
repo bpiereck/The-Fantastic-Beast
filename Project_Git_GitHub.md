@@ -24,4 +24,8 @@ git add
 
 git commit -m "MEANINFUL MSG" 
 
+    What if I dont use <-m  "msg" >: 
+
 git status
+
+
