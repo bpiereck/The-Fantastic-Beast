@@ -29,3 +29,7 @@ git commit -m "MEANINFUL MSG"
 git status
 
 
+
+git push
+
+git pull
